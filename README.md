@@ -1,2 +1,3 @@
-# SKILL-DAY1
-Learning Git and GitHub – daily skill practice and version control basics.
+# function practice qustion all end to end
+*  step by step program in python
+*  all concepts of function in python 
